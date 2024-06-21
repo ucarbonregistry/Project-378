@@ -57,3 +57,13 @@ otherwise would have been imported from the NEWNE grid.
 Since the project activity generates electricity through wind energy, a clean renewable energy source it
 will not cause any negative impact on the environment and thereby contributes to climate change
 mitigation efforts
+_________________
+ISSUE DATE: 21/06/2024
+
+QTY: 5154
+______________
+SERIAL # 0001-000001-005154-UCR-CoU-IN-378-25022022-31122022
+
+Vintage Year:2022
+
+Quantity: 5154
